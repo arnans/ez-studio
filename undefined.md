@@ -72,7 +72,7 @@ TLIC ได้ออกแบบการติดตั้งชุดโปร
   </tbody>
 </table>
 
-## การตั้งค่า OBS สำหรับ EZ Studio
+## ไฟล์การตั้งค่า OBS สำหรับ EZ Studio
 
 <table>
   <thead>
